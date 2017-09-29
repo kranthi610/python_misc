@@ -1,0 +1,8 @@
+user id: kranthi610@gmail.com
+
+password: hanumans123@
+
+
+Open the blog folder and Click the index.php file and enter the above mentioned credentials
+
+The database sql file is  also included..import it to the mysql databse.
