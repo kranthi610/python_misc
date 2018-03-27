@@ -1,0 +1,3539 @@
+
+Array
+(
+    [file] => Array
+        (
+            [name] => binary_tree_example.png
+            [type] => image/png
+            [tmp_name] => /tmp/phpWdpUuq
+            [error] => 0
+            [size] => 57799
+        )
+
+)
+
+
+IN THE CLASS...
+
+
+
+
+./uploads/1519942809.Array
+(
+    [file] => Array
+        (
+            [name] => binary_tree_delete_root.png
+            [type] => image/png
+            [tmp_name] => /tmp/php1Y86GQ
+            [error] => 0
+            [size] => 126231
+        )
+
+)
+
+
+IN THE CLASS...
+
+
+Array
+(
+    [name] => binary_tree_delete_root.png
+    [type] => image/png
+    [tmp_name] => /tmp/php1Y86GQ
+    [error] => 0
+    [size] => 126231
+)
+
+
+SUCCESS
+
+INSERT INTO `images` VALUES (NULL, 0, '1519942938', 'png', '1519942938', './uploads/', './uploads/thumbs/', '', '97.77.46.129');Array
+(
+    [file] => Array
+        (
+            [name] => binary_tree_example.png
+            [type] => image/png
+            [tmp_name] => /tmp/phpms0Ce7
+            [error] => 0
+            [size] => 57799
+        )
+
+)
+
+
+IN THE CLASS...
+
+
+Array
+(
+    [name] => binary_tree_example.png
+    [type] => image/png
+    [tmp_name] => /tmp/phpms0Ce7
+    [error] => 0
+    [size] => 57799
+)
+
+
+SUCCESS
+
+INSERT INTO `images` VALUES (NULL, 0, '1519943026', 'png', '1519943026', './uploads/', './uploads/thumbs/', '', '97.77.46.129');
+
+Array
+(
+    [file] => Array
+        (
+            [name] => delete_root_example.png
+            [type] => image/png
+            [tmp_name] => /tmp/php8PuIXR
+            [error] => 0
+            [size] => 54029
+        )
+
+)
+
+
+IN THE CLASS...
+
+
+Array
+(
+    [name] => delete_root_example.png
+    [type] => image/png
+    [tmp_name] => /tmp/php8PuIXR
+    [error] => 0
+    [size] => 54029
+)
+
+
+SUCCESS
+
+INSERT INTO `images` VALUES (NULL, 0, '1519943054', 'png', '1519943054', './uploads/', './uploads/thumbs/', '', '97.77.46.129');
+
+Array
+(
+    [file] => Array
+        (
+            [name] => delete_from_binary_tree.png
+            [type] => image/png
+            [tmp_name] => /tmp/phpetIWZS
+            [error] => 0
+            [size] => 395950
+        )
+
+)
+
+
+IN THE CLASS...
+
+
+Array
+(
+    [name] => delete_from_binary_tree.png
+    [type] => image/png
+    [tmp_name] => /tmp/phpetIWZS
+    [error] => 0
+    [size] => 395950
+)
+
+
+SUCCESS
+
+INSERT INTO `images` VALUES (NULL, 0, '1519943160', 'png', '1519943160', './uploads/', './uploads/thumbs/', '', '97.77.46.129');
+
+Array
+(
+    [success] => 1
+)
+
+
+Array
+(
+    [file] => Array
+        (
+            [name] => delete_root_example.png
+            [type] => image/png
+            [tmp_name] => /tmp/phpQR3u6r
+            [error] => 0
+            [size] => 54029
+        )
+
+)
+
+
+IN THE CLASS...
+
+
+Array
+(
+    [name] => delete_root_example.png
+    [type] => image/png
+    [tmp_name] => /tmp/phpQR3u6r
+    [error] => 0
+    [size] => 54029
+)
+
+
+SUCCESS
+
+Array
+(
+    [success] => 1
+)
+
+
+Array
+(
+    [file] => Array
+        (
+            [name] => delete_root_example.png
+            [type] => image/png
+            [tmp_name] => /tmp/phpptJbc6
+            [error] => 0
+            [size] => 54029
+        )
+
+)
+
+
+IN THE CLASS...
+
+
+Array
+(
+    [name] => delete_root_example.png
+    [type] => image/png
+    [tmp_name] => /tmp/phpptJbc6
+    [error] => 0
+    [size] => 54029
+)
+
+
+SUCCESS
+
+Array
+(
+    [success] => 1
+)
+
+
+Array
+(
+    [file] => Array
+        (
+            [name] => delete_root_example.png
+            [type] => image/png
+            [tmp_name] => /tmp/phpaFOjT4
+            [error] => 0
+            [size] => 54029
+        )
+
+)
+
+
+IN THE CLASS...
+
+
+Array
+(
+    [name] => delete_root_example.png
+    [type] => image/png
+    [tmp_name] => /tmp/phpaFOjT4
+    [error] => 0
+    [size] => 54029
+)
+
+
+SUCCESS
+
+Array
+(
+    [success] => 1
+)
+
+
+Array
+(
+    [file] => Array
+        (
+            [name] => binary_tree_delete_root.png
+            [type] => image/png
+            [tmp_name] => /tmp/phpv38zTU
+            [error] => 0
+            [size] => 126231
+        )
+
+)
+
+
+IN THE CLASS...
+
+
+Array
+(
+    [name] => binary_tree_delete_root.png
+    [type] => image/png
+    [tmp_name] => /tmp/phpv38zTU
+    [error] => 0
+    [size] => 126231
+)
+
+
+SUCCESS
+
+Array
+(
+    [success] => 1
+)
+
+
+Array
+(
+    [file] => Array
+        (
+            [name] => delete_root_example.png
+            [type] => image/png
+            [tmp_name] => /tmp/phpQV7rqM
+            [error] => 0
+            [size] => 54029
+        )
+
+)
+
+
+IN THE CLASS...
+
+
+Array
+(
+    [name] => delete_root_example.png
+    [type] => image/png
+    [tmp_name] => /tmp/phpQV7rqM
+    [error] => 0
+    [size] => 54029
+)
+
+
+SUCCESS
+
+Array
+(
+    [success] => 1
+)
+
+
+Array
+(
+    [file] => Array
+        (
+            [name] => binary_tree_example.png
+            [type] => image/png
+            [tmp_name] => /tmp/phptJyFa1
+            [error] => 0
+            [size] => 57799
+        )
+
+)
+
+
+IN THE CLASS...
+
+
+Array
+(
+    [name] => binary_tree_example.png
+    [type] => image/png
+    [tmp_name] => /tmp/phptJyFa1
+    [error] => 0
+    [size] => 57799
+)
+
+
+SUCCESS
+
+Array
+(
+    [success] => 1
+)
+
+
+Array
+(
+    [file] => Array
+        (
+            [name] => Screen Shot 2018-02-27 at 12.05.26 PM.png
+            [type] => image/png
+            [tmp_name] => /tmp/phpqnIplL
+            [error] => 0
+            [size] => 49906
+        )
+
+)
+
+
+IN THE CLASS...
+
+
+Array
+(
+    [name] => Screen Shot 2018-02-27 at 12.05.26 PM.png
+    [type] => image/png
+    [tmp_name] => /tmp/phpqnIplL
+    [error] => 0
+    [size] => 49906
+)
+
+
+SUCCESS
+
+Array
+(
+    [success] => 1
+)
+
+
+Array
+(
+    [file] => Array
+        (
+            [name] => heap_build_sol.png
+            [type] => image/png
+            [tmp_name] => /tmp/phpkmCZns
+            [error] => 0
+            [size] => 380159
+        )
+
+)
+
+
+IN THE CLASS...
+
+
+Array
+(
+    [name] => heap_build_sol.png
+    [type] => image/png
+    [tmp_name] => /tmp/phpkmCZns
+    [error] => 0
+    [size] => 380159
+)
+
+
+SUCCESS
+
+Array
+(
+    [success] => 1
+)
+
+
+Array
+(
+    [file] => Array
+        (
+            [name] => binary_tree_example.png
+            [type] => image/png
+            [tmp_name] => /tmp/phpXnyk4N
+            [error] => 0
+            [size] => 57799
+        )
+
+)
+
+
+IN THE CLASS...
+
+
+Array
+(
+    [name] => binary_tree_example.png
+    [type] => image/png
+    [tmp_name] => /tmp/phpXnyk4N
+    [error] => 0
+    [size] => 57799
+)
+
+
+SUCCESS
+
+Array
+(
+    [success] => 1
+)
+
+
+Array
+(
+    [file] => Array
+        (
+            [name] => er_diagram_example.png
+            [type] => image/png
+            [tmp_name] => /tmp/phpBlsnIg
+            [error] => 0
+            [size] => 662936
+        )
+
+)
+
+
+IN THE CLASS...
+
+
+Array
+(
+    [name] => er_diagram_example.png
+    [type] => image/png
+    [tmp_name] => /tmp/phpBlsnIg
+    [error] => 0
+    [size] => 662936
+)
+
+
+SUCCESS
+
+Array
+(
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=register
+        )
+
+    [1] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=login
+        )
+
+    [2] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbs
+        )
+
+    [3] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=fileUpload
+        )
+
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => 1519771963.png
+    [1] => 1519773556.jpg
+    [2] => 1519775949.jpg
+    [3] => 1519936939.png
+    [4] => 1519937027.png
+    [5] => 1519937234.png
+    [6] => 1519938217.png
+    [7] => 1519938234.png
+    [8] => 1519938376.png
+    [9] => 1519938523.png
+    [10] => 1519942938.png
+    [11] => 1519943026.png
+    [12] => 1519943054.png
+    [13] => 1519943160.png
+    [14] => 1519943297.png
+    [15] => 1519944247.png
+    [16] => 1519944292.png
+    [17] => 1519944381.png
+    [18] => 1519944405.png
+    [19] => 1519944450.png
+    [20] => 1519944502.png
+    [21] => 1519945749.png
+    [22] => 1519945766.png
+    [23] => 1519946452.png
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => uploads/thumbs/1519771963.png
+    [1] => uploads/thumbs/1519773556.jpg
+    [2] => uploads/thumbs/1519775949.jpg
+    [3] => uploads/thumbs/1519936939.png
+    [4] => uploads/thumbs/1519937027.png
+    [5] => uploads/thumbs/1519937234.png
+    [6] => uploads/thumbs/1519938217.png
+    [7] => uploads/thumbs/1519938234.png
+    [8] => uploads/thumbs/1519938376.png
+    [9] => uploads/thumbs/1519938523.png
+    [10] => uploads/thumbs/1519942938.png
+    [11] => uploads/thumbs/1519943026.png
+    [12] => uploads/thumbs/1519943054.png
+    [13] => uploads/thumbs/1519943160.png
+    [14] => uploads/thumbs/1519943297.png
+    [15] => uploads/thumbs/1519944247.png
+    [16] => uploads/thumbs/1519944292.png
+    [17] => uploads/thumbs/1519944381.png
+    [18] => uploads/thumbs/1519944405.png
+    [19] => uploads/thumbs/1519944450.png
+    [20] => uploads/thumbs/1519944502.png
+    [21] => uploads/thumbs/1519945749.png
+    [22] => uploads/thumbs/1519945766.png
+    [23] => uploads/thumbs/1519946452.png
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => uploads/thumbs/1519771963.png
+    [1] => uploads/thumbs/1519773556.jpg
+    [2] => uploads/thumbs/1519775949.jpg
+    [3] => uploads/thumbs/1519936939.png
+    [4] => uploads/thumbs/1519937027.png
+    [5] => uploads/thumbs/1519937234.png
+    [6] => uploads/thumbs/1519938217.png
+    [7] => uploads/thumbs/1519938234.png
+    [8] => uploads/thumbs/1519938376.png
+    [9] => uploads/thumbs/1519938523.png
+    [10] => uploads/thumbs/1519942938.png
+    [11] => uploads/thumbs/1519943026.png
+    [12] => uploads/thumbs/1519943054.png
+    [13] => uploads/thumbs/1519943160.png
+    [14] => uploads/thumbs/1519943297.png
+    [15] => uploads/thumbs/1519944247.png
+    [16] => uploads/thumbs/1519944292.png
+    [17] => uploads/thumbs/1519944381.png
+    [18] => uploads/thumbs/1519944405.png
+    [19] => uploads/thumbs/1519944450.png
+    [20] => uploads/thumbs/1519944502.png
+    [21] => uploads/thumbs/1519945749.png
+    [22] => uploads/thumbs/1519945766.png
+    [23] => uploads/thumbs/1519946452.png
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => uploads/thumbs/1519771963.png
+    [1] => uploads/thumbs/1519773556.jpg
+    [2] => uploads/thumbs/1519775949.jpg
+    [3] => uploads/thumbs/1519936939.png
+    [4] => uploads/thumbs/1519937027.png
+    [5] => uploads/thumbs/1519937234.png
+    [6] => uploads/thumbs/1519938217.png
+    [7] => uploads/thumbs/1519938234.png
+    [8] => uploads/thumbs/1519938376.png
+    [9] => uploads/thumbs/1519938523.png
+    [10] => uploads/thumbs/1519942938.png
+    [11] => uploads/thumbs/1519943026.png
+    [12] => uploads/thumbs/1519943054.png
+    [13] => uploads/thumbs/1519943160.png
+    [14] => uploads/thumbs/1519943297.png
+    [15] => uploads/thumbs/1519944247.png
+    [16] => uploads/thumbs/1519944292.png
+    [17] => uploads/thumbs/1519944381.png
+    [18] => uploads/thumbs/1519944405.png
+    [19] => uploads/thumbs/1519944450.png
+    [20] => uploads/thumbs/1519944502.png
+    [21] => uploads/thumbs/1519945749.png
+    [22] => uploads/thumbs/1519945766.png
+    [23] => uploads/thumbs/1519946452.png
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=register
+        )
+
+    [1] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=login
+        )
+
+    [2] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdir
+        )
+
+    [3] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdb
+        )
+
+    [4] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=fileUpload
+        )
+
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => uploads/thumbs/1519771963.png
+    [1] => uploads/thumbs/1519773556.jpg
+    [2] => uploads/thumbs/1519775949.jpg
+    [3] => uploads/thumbs/1519936939.png
+    [4] => uploads/thumbs/1519937027.png
+    [5] => uploads/thumbs/1519937234.png
+    [6] => uploads/thumbs/1519938217.png
+    [7] => uploads/thumbs/1519938234.png
+    [8] => uploads/thumbs/1519938376.png
+    [9] => uploads/thumbs/1519938523.png
+    [10] => uploads/thumbs/1519942938.png
+    [11] => uploads/thumbs/1519943026.png
+    [12] => uploads/thumbs/1519943054.png
+    [13] => uploads/thumbs/1519943160.png
+    [14] => uploads/thumbs/1519943297.png
+    [15] => uploads/thumbs/1519944247.png
+    [16] => uploads/thumbs/1519944292.png
+    [17] => uploads/thumbs/1519944381.png
+    [18] => uploads/thumbs/1519944405.png
+    [19] => uploads/thumbs/1519944450.png
+    [20] => uploads/thumbs/1519944502.png
+    [21] => uploads/thumbs/1519945749.png
+    [22] => uploads/thumbs/1519945766.png
+    [23] => uploads/thumbs/1519946452.png
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => Array
+        (
+            [0] => 1
+            [id] => 1
+            [1] => 0
+            [uid] => 0
+            [2] => 1519937027
+            [imgName] => 1519937027
+            [3] => png
+            [imgType] => png
+            [4] => 1519937027
+            [date] => 1519937027
+            [5] => ./uploads/
+            [imgPath] => ./uploads/
+            [6] => ./uploads/thumbs/
+            [thumbPath] => ./uploads/thumbs/
+            [7] => 
+            [tags] => 
+            [8] => 97.77.46.129
+            [ipAddress] => 97.77.46.129
+        )
+
+    [1] => Array
+        (
+            [0] => 2
+            [id] => 2
+            [1] => 1
+            [uid] => 1
+            [2] => 1519937027
+            [imgName] => 1519937027
+            [3] => png
+            [imgType] => png
+            [4] => 1519937027
+            [date] => 1519937027
+            [5] => ./uploads/
+            [imgPath] => ./uploads/
+            [6] => ./uploads/thumbs/
+            [thumbPath] => ./uploads/thumbs/
+            [7] => 
+            [tags] => 
+            [8] => 97.77.46.129
+            [ipAddress] => 97.77.46.129
+        )
+
+    [2] => Array
+        (
+            [0] => 3
+            [id] => 3
+            [1] => 0
+            [uid] => 0
+            [2] => 1519937234
+            [imgName] => 1519937234
+            [3] => png
+            [imgType] => png
+            [4] => 1519937234
+            [date] => 1519937234
+            [5] => ./uploads/
+            [imgPath] => ./uploads/
+            [6] => ./uploads/thumbs/
+            [thumbPath] => ./uploads/thumbs/
+            [7] => 
+            [tags] => 
+            [8] => 97.77.46.129
+            [ipAddress] => 97.77.46.129
+        )
+
+    [3] => Array
+        (
+            [0] => 4
+            [id] => 4
+            [1] => 0
+            [uid] => 0
+            [2] => 1519938217
+            [imgName] => 1519938217
+            [3] => png
+            [imgType] => png
+            [4] => 1519938217
+            [date] => 1519938217
+            [5] => ./uploads/
+            [imgPath] => ./uploads/
+            [6] => ./uploads/thumbs/
+            [thumbPath] => ./uploads/thumbs/
+            [7] => 
+            [tags] => 
+            [8] => 97.77.46.129
+            [ipAddress] => 97.77.46.129
+        )
+
+    [4] => Array
+        (
+            [0] => 5
+            [id] => 5
+            [1] => 0
+            [uid] => 0
+            [2] => 1519938234
+            [imgName] => 1519938234
+            [3] => png
+            [imgType] => png
+            [4] => 1519938234
+            [date] => 1519938234
+            [5] => ./uploads/
+            [imgPath] => ./uploads/
+            [6] => ./uploads/thumbs/
+            [thumbPath] => ./uploads/thumbs/
+            [7] => 
+            [tags] => 
+            [8] => 97.77.46.129
+            [ipAddress] => 97.77.46.129
+        )
+
+    [5] => Array
+        (
+            [0] => 6
+            [id] => 6
+            [1] => 0
+            [uid] => 0
+            [2] => 1519938376
+            [imgName] => 1519938376
+            [3] => png
+            [imgType] => png
+            [4] => 1519938376
+            [date] => 1519938376
+            [5] => ./uploads/
+            [imgPath] => ./uploads/
+            [6] => ./uploads/thumbs/
+            [thumbPath] => ./uploads/thumbs/
+            [7] => 
+            [tags] => 
+            [8] => 97.77.46.129
+            [ipAddress] => 97.77.46.129
+        )
+
+    [6] => Array
+        (
+            [0] => 7
+            [id] => 7
+            [1] => 0
+            [uid] => 0
+            [2] => 1519938523
+            [imgName] => 1519938523
+            [3] => png
+            [imgType] => png
+            [4] => 1519938523
+            [date] => 1519938523
+            [5] => ./uploads/
+            [imgPath] => ./uploads/
+            [6] => ./uploads/thumbs/
+            [thumbPath] => ./uploads/thumbs/
+            [7] => 
+            [tags] => 
+            [8] => 97.77.46.129
+            [ipAddress] => 97.77.46.129
+        )
+
+    [7] => Array
+        (
+            [0] => 8
+            [id] => 8
+            [1] => 0
+            [uid] => 0
+            [2] => 1519942938
+            [imgName] => 1519942938
+            [3] => png
+            [imgType] => png
+            [4] => 1519942938
+            [date] => 1519942938
+            [5] => ./uploads/
+            [imgPath] => ./uploads/
+            [6] => ./uploads/thumbs/
+            [thumbPath] => ./uploads/thumbs/
+            [7] => 
+            [tags] => 
+            [8] => 97.77.46.129
+            [ipAddress] => 97.77.46.129
+        )
+
+    [8] => Array
+        (
+            [0] => 9
+            [id] => 9
+            [1] => 0
+            [uid] => 0
+            [2] => 1519943026
+            [imgName] => 1519943026
+            [3] => png
+            [imgType] => png
+            [4] => 1519943026
+            [date] => 1519943026
+            [5] => ./uploads/
+            [imgPath] => ./uploads/
+            [6] => ./uploads/thumbs/
+            [thumbPath] => ./uploads/thumbs/
+            [7] => 
+            [tags] => 
+            [8] => 97.77.46.129
+            [ipAddress] => 97.77.46.129
+        )
+
+    [9] => Array
+        (
+            [0] => 10
+            [id] => 10
+            [1] => 0
+            [uid] => 0
+            [2] => 1519943054
+            [imgName] => 1519943054
+            [3] => png
+            [imgType] => png
+            [4] => 1519943054
+            [date] => 1519943054
+            [5] => ./uploads/
+            [imgPath] => ./uploads/
+            [6] => ./uploads/thumbs/
+            [thumbPath] => ./uploads/thumbs/
+            [7] => 
+            [tags] => 
+            [8] => 97.77.46.129
+            [ipAddress] => 97.77.46.129
+        )
+
+    [10] => Array
+        (
+            [0] => 11
+            [id] => 11
+            [1] => 0
+            [uid] => 0
+            [2] => 1519943160
+            [imgName] => 1519943160
+            [3] => png
+            [imgType] => png
+            [4] => 1519943160
+            [date] => 1519943160
+            [5] => ./uploads/
+            [imgPath] => ./uploads/
+            [6] => ./uploads/thumbs/
+            [thumbPath] => ./uploads/thumbs/
+            [7] => 
+            [tags] => 
+            [8] => 97.77.46.129
+            [ipAddress] => 97.77.46.129
+        )
+
+    [11] => Array
+        (
+            [0] => 12
+            [id] => 12
+            [1] => 0
+            [uid] => 0
+            [2] => 1519943297
+            [imgName] => 1519943297
+            [3] => png
+            [imgType] => png
+            [4] => 1519943297
+            [date] => 1519943297
+            [5] => ./uploads/
+            [imgPath] => ./uploads/
+            [6] => ./uploads/thumbs/
+            [thumbPath] => ./uploads/thumbs/
+            [7] => 
+            [tags] => 
+            [8] => 97.77.46.129
+            [ipAddress] => 97.77.46.129
+        )
+
+    [12] => Array
+        (
+            [0] => 13
+            [id] => 13
+            [1] => 0
+            [uid] => 0
+            [2] => 1519944247
+            [imgName] => 1519944247
+            [3] => png
+            [imgType] => png
+            [4] => 1519944247
+            [date] => 1519944247
+            [5] => ./uploads/
+            [imgPath] => ./uploads/
+            [6] => ./uploads/thumbs/
+            [thumbPath] => ./uploads/thumbs/
+            [7] => 
+            [tags] => 
+            [8] => 97.77.46.129
+            [ipAddress] => 97.77.46.129
+        )
+
+    [13] => Array
+        (
+            [0] => 14
+            [id] => 14
+            [1] => 0
+            [uid] => 0
+            [2] => 1519944292
+            [imgName] => 1519944292
+            [3] => png
+            [imgType] => png
+            [4] => 1519944292
+            [date] => 1519944292
+            [5] => ./uploads/
+            [imgPath] => ./uploads/
+            [6] => ./uploads/thumbs/
+            [thumbPath] => ./uploads/thumbs/
+            [7] => 
+            [tags] => 
+            [8] => 97.77.46.129
+            [ipAddress] => 97.77.46.129
+        )
+
+    [14] => Array
+        (
+            [0] => 15
+            [id] => 15
+            [1] => 0
+            [uid] => 0
+            [2] => 1519944381
+            [imgName] => 1519944381
+            [3] => png
+            [imgType] => png
+            [4] => 1519944381
+            [date] => 1519944381
+            [5] => ./uploads/
+            [imgPath] => ./uploads/
+            [6] => ./uploads/thumbs/
+            [thumbPath] => ./uploads/thumbs/
+            [7] => 
+            [tags] => 
+            [8] => 97.77.46.129
+            [ipAddress] => 97.77.46.129
+        )
+
+    [15] => Array
+        (
+            [0] => 16
+            [id] => 16
+            [1] => 0
+            [uid] => 0
+            [2] => 1519944405
+            [imgName] => 1519944405
+            [3] => png
+            [imgType] => png
+            [4] => 1519944405
+            [date] => 1519944405
+            [5] => ./uploads/
+            [imgPath] => ./uploads/
+            [6] => ./uploads/thumbs/
+            [thumbPath] => ./uploads/thumbs/
+            [7] => 
+            [tags] => 
+            [8] => 97.77.46.129
+            [ipAddress] => 97.77.46.129
+        )
+
+    [16] => Array
+        (
+            [0] => 17
+            [id] => 17
+            [1] => 0
+            [uid] => 0
+            [2] => 1519944450
+            [imgName] => 1519944450
+            [3] => png
+            [imgType] => png
+            [4] => 1519944450
+            [date] => 1519944450
+            [5] => ./uploads/
+            [imgPath] => ./uploads/
+            [6] => ./uploads/thumbs/
+            [thumbPath] => ./uploads/thumbs/
+            [7] => 
+            [tags] => 
+            [8] => 97.77.46.129
+            [ipAddress] => 97.77.46.129
+        )
+
+    [17] => Array
+        (
+            [0] => 18
+            [id] => 18
+            [1] => 0
+            [uid] => 0
+            [2] => 1519944502
+            [imgName] => 1519944502
+            [3] => png
+            [imgType] => png
+            [4] => 1519944502
+            [date] => 1519944502
+            [5] => ./uploads/
+            [imgPath] => ./uploads/
+            [6] => ./uploads/thumbs/
+            [thumbPath] => ./uploads/thumbs/
+            [7] => 
+            [tags] => 
+            [8] => 97.77.46.129
+            [ipAddress] => 97.77.46.129
+        )
+
+    [18] => Array
+        (
+            [0] => 19
+            [id] => 19
+            [1] => 0
+            [uid] => 0
+            [2] => 1519945749
+            [imgName] => 1519945749
+            [3] => png
+            [imgType] => png
+            [4] => 1519945749
+            [date] => 1519945749
+            [5] => ./uploads/
+            [imgPath] => ./uploads/
+            [6] => ./uploads/thumbs/
+            [thumbPath] => ./uploads/thumbs/
+            [7] => 
+            [tags] => 
+            [8] => 97.77.46.236
+            [ipAddress] => 97.77.46.236
+        )
+
+    [19] => Array
+        (
+            [0] => 20
+            [id] => 20
+            [1] => 0
+            [uid] => 0
+            [2] => 1519945766
+            [imgName] => 1519945766
+            [3] => png
+            [imgType] => png
+            [4] => 1519945766
+            [date] => 1519945766
+            [5] => ./uploads/
+            [imgPath] => ./uploads/
+            [6] => ./uploads/thumbs/
+            [thumbPath] => ./uploads/thumbs/
+            [7] => 
+            [tags] => 
+            [8] => 97.77.46.236
+            [ipAddress] => 97.77.46.236
+        )
+
+    [20] => Array
+        (
+            [0] => 21
+            [id] => 21
+            [1] => 0
+            [uid] => 0
+            [2] => 1519946452
+            [imgName] => 1519946452
+            [3] => png
+            [imgType] => png
+            [4] => 1519946452
+            [date] => 1519946452
+            [5] => ./uploads/
+            [imgPath] => ./uploads/
+            [6] => ./uploads/thumbs/
+            [thumbPath] => ./uploads/thumbs/
+            [7] => 
+            [tags] => 
+            [8] => 97.77.46.236
+            [ipAddress] => 97.77.46.236
+        )
+
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => ./uploads/thumbs//1519937027
+    [1] => ./uploads/thumbs//1519937027
+    [2] => ./uploads/thumbs//1519937234
+    [3] => ./uploads/thumbs//1519938217
+    [4] => ./uploads/thumbs//1519938234
+    [5] => ./uploads/thumbs//1519938376
+    [6] => ./uploads/thumbs//1519938523
+    [7] => ./uploads/thumbs//1519942938
+    [8] => ./uploads/thumbs//1519943026
+    [9] => ./uploads/thumbs//1519943054
+    [10] => ./uploads/thumbs//1519943160
+    [11] => ./uploads/thumbs//1519943297
+    [12] => ./uploads/thumbs//1519944247
+    [13] => ./uploads/thumbs//1519944292
+    [14] => ./uploads/thumbs//1519944381
+    [15] => ./uploads/thumbs//1519944405
+    [16] => ./uploads/thumbs//1519944450
+    [17] => ./uploads/thumbs//1519944502
+    [18] => ./uploads/thumbs//1519945749
+    [19] => ./uploads/thumbs//1519945766
+    [20] => ./uploads/thumbs//1519946452
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => /uploads/thumbs/1519937027
+    [1] => /uploads/thumbs/1519937027
+    [2] => /uploads/thumbs/1519937234
+    [3] => /uploads/thumbs/1519938217
+    [4] => /uploads/thumbs/1519938234
+    [5] => /uploads/thumbs/1519938376
+    [6] => /uploads/thumbs/1519938523
+    [7] => /uploads/thumbs/1519942938
+    [8] => /uploads/thumbs/1519943026
+    [9] => /uploads/thumbs/1519943054
+    [10] => /uploads/thumbs/1519943160
+    [11] => /uploads/thumbs/1519943297
+    [12] => /uploads/thumbs/1519944247
+    [13] => /uploads/thumbs/1519944292
+    [14] => /uploads/thumbs/1519944381
+    [15] => /uploads/thumbs/1519944405
+    [16] => /uploads/thumbs/1519944450
+    [17] => /uploads/thumbs/1519944502
+    [18] => /uploads/thumbs/1519945749
+    [19] => /uploads/thumbs/1519945766
+    [20] => /uploads/thumbs/1519946452
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => /uploads/thumbs/1519937027
+    [1] => /uploads/thumbs/1519937027
+    [2] => /uploads/thumbs/1519937234
+    [3] => /uploads/thumbs/1519938217
+    [4] => /uploads/thumbs/1519938234
+    [5] => /uploads/thumbs/1519938376
+    [6] => /uploads/thumbs/1519938523
+    [7] => /uploads/thumbs/1519942938
+    [8] => /uploads/thumbs/1519943026
+    [9] => /uploads/thumbs/1519943054
+    [10] => /uploads/thumbs/1519943160
+    [11] => /uploads/thumbs/1519943297
+    [12] => /uploads/thumbs/1519944247
+    [13] => /uploads/thumbs/1519944292
+    [14] => /uploads/thumbs/1519944381
+    [15] => /uploads/thumbs/1519944405
+    [16] => /uploads/thumbs/1519944450
+    [17] => /uploads/thumbs/1519944502
+    [18] => /uploads/thumbs/1519945749
+    [19] => /uploads/thumbs/1519945766
+    [20] => /uploads/thumbs/1519946452
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => /uploads/thumbs/1519937027png
+    [1] => /uploads/thumbs/1519937027png
+    [2] => /uploads/thumbs/1519937234png
+    [3] => /uploads/thumbs/1519938217png
+    [4] => /uploads/thumbs/1519938234png
+    [5] => /uploads/thumbs/1519938376png
+    [6] => /uploads/thumbs/1519938523png
+    [7] => /uploads/thumbs/1519942938png
+    [8] => /uploads/thumbs/1519943026png
+    [9] => /uploads/thumbs/1519943054png
+    [10] => /uploads/thumbs/1519943160png
+    [11] => /uploads/thumbs/1519943297png
+    [12] => /uploads/thumbs/1519944247png
+    [13] => /uploads/thumbs/1519944292png
+    [14] => /uploads/thumbs/1519944381png
+    [15] => /uploads/thumbs/1519944405png
+    [16] => /uploads/thumbs/1519944450png
+    [17] => /uploads/thumbs/1519944502png
+    [18] => /uploads/thumbs/1519945749png
+    [19] => /uploads/thumbs/1519945766png
+    [20] => /uploads/thumbs/1519946452png
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => /uploads/thumbs/1519937027.png
+    [1] => /uploads/thumbs/1519937027.png
+    [2] => /uploads/thumbs/1519937234.png
+    [3] => /uploads/thumbs/1519938217.png
+    [4] => /uploads/thumbs/1519938234.png
+    [5] => /uploads/thumbs/1519938376.png
+    [6] => /uploads/thumbs/1519938523.png
+    [7] => /uploads/thumbs/1519942938.png
+    [8] => /uploads/thumbs/1519943026.png
+    [9] => /uploads/thumbs/1519943054.png
+    [10] => /uploads/thumbs/1519943160.png
+    [11] => /uploads/thumbs/1519943297.png
+    [12] => /uploads/thumbs/1519944247.png
+    [13] => /uploads/thumbs/1519944292.png
+    [14] => /uploads/thumbs/1519944381.png
+    [15] => /uploads/thumbs/1519944405.png
+    [16] => /uploads/thumbs/1519944450.png
+    [17] => /uploads/thumbs/1519944502.png
+    [18] => /uploads/thumbs/1519945749.png
+    [19] => /uploads/thumbs/1519945766.png
+    [20] => /uploads/thumbs/1519946452.png
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => /uploads/thumbs/1519937027.png
+    [1] => /uploads/thumbs/1519937027.png
+    [2] => /uploads/thumbs/1519937234.png
+    [3] => /uploads/thumbs/1519938217.png
+    [4] => /uploads/thumbs/1519938234.png
+    [5] => /uploads/thumbs/1519938376.png
+    [6] => /uploads/thumbs/1519938523.png
+    [7] => /uploads/thumbs/1519942938.png
+    [8] => /uploads/thumbs/1519943026.png
+    [9] => /uploads/thumbs/1519943054.png
+    [10] => /uploads/thumbs/1519943160.png
+    [11] => /uploads/thumbs/1519943297.png
+    [12] => /uploads/thumbs/1519944247.png
+    [13] => /uploads/thumbs/1519944292.png
+    [14] => /uploads/thumbs/1519944381.png
+    [15] => /uploads/thumbs/1519944405.png
+    [16] => /uploads/thumbs/1519944450.png
+    [17] => /uploads/thumbs/1519944502.png
+    [18] => /uploads/thumbs/1519945749.png
+    [19] => /uploads/thumbs/1519945766.png
+    [20] => /uploads/thumbs/1519946452.png
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => /uploads/thumbs/1519937027.png
+    [1] => /uploads/thumbs/1519937027.png
+    [2] => /uploads/thumbs/1519937234.png
+    [3] => /uploads/thumbs/1519938217.png
+    [4] => /uploads/thumbs/1519938234.png
+    [5] => /uploads/thumbs/1519938376.png
+    [6] => /uploads/thumbs/1519938523.png
+    [7] => /uploads/thumbs/1519942938.png
+    [8] => /uploads/thumbs/1519943026.png
+    [9] => /uploads/thumbs/1519943054.png
+    [10] => /uploads/thumbs/1519943160.png
+    [11] => /uploads/thumbs/1519943297.png
+    [12] => /uploads/thumbs/1519944247.png
+    [13] => /uploads/thumbs/1519944292.png
+    [14] => /uploads/thumbs/1519944381.png
+    [15] => /uploads/thumbs/1519944405.png
+    [16] => /uploads/thumbs/1519944450.png
+    [17] => /uploads/thumbs/1519944502.png
+    [18] => /uploads/thumbs/1519945749.png
+    [19] => /uploads/thumbs/1519945766.png
+    [20] => /uploads/thumbs/1519946452.png
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => /uploads/thumbs/1519937027.png
+    [1] => /uploads/thumbs/1519937027.png
+    [2] => /uploads/thumbs/1519937234.png
+    [3] => /uploads/thumbs/1519938217.png
+    [4] => /uploads/thumbs/1519938234.png
+    [5] => /uploads/thumbs/1519938376.png
+    [6] => /uploads/thumbs/1519938523.png
+    [7] => /uploads/thumbs/1519942938.png
+    [8] => /uploads/thumbs/1519943026.png
+    [9] => /uploads/thumbs/1519943054.png
+    [10] => /uploads/thumbs/1519943160.png
+    [11] => /uploads/thumbs/1519943297.png
+    [12] => /uploads/thumbs/1519944247.png
+    [13] => /uploads/thumbs/1519944292.png
+    [14] => /uploads/thumbs/1519944381.png
+    [15] => /uploads/thumbs/1519944405.png
+    [16] => /uploads/thumbs/1519944450.png
+    [17] => /uploads/thumbs/1519944502.png
+    [18] => /uploads/thumbs/1519945749.png
+    [19] => /uploads/thumbs/1519945766.png
+    [20] => /uploads/thumbs/1519946452.png
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => /uploads/thumbs/1519937027.png
+    [1] => /uploads/thumbs/1519937027.png
+    [2] => /uploads/thumbs/1519937234.png
+    [3] => /uploads/thumbs/1519938217.png
+    [4] => /uploads/thumbs/1519938234.png
+    [5] => /uploads/thumbs/1519938376.png
+    [6] => /uploads/thumbs/1519938523.png
+    [7] => /uploads/thumbs/1519942938.png
+    [8] => /uploads/thumbs/1519943026.png
+    [9] => /uploads/thumbs/1519943054.png
+    [10] => /uploads/thumbs/1519943160.png
+    [11] => /uploads/thumbs/1519943297.png
+    [12] => /uploads/thumbs/1519944247.png
+    [13] => /uploads/thumbs/1519944292.png
+    [14] => /uploads/thumbs/1519944381.png
+    [15] => /uploads/thumbs/1519944405.png
+    [16] => /uploads/thumbs/1519944450.png
+    [17] => /uploads/thumbs/1519944502.png
+    [18] => /uploads/thumbs/1519945749.png
+    [19] => /uploads/thumbs/1519945766.png
+    [20] => /uploads/thumbs/1519946452.png
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => /uploads/thumbs/1519937027.png
+    [1] => /uploads/thumbs/1519937027.png
+    [2] => /uploads/thumbs/1519937234.png
+    [3] => /uploads/thumbs/1519938217.png
+    [4] => /uploads/thumbs/1519938234.png
+    [5] => /uploads/thumbs/1519938376.png
+    [6] => /uploads/thumbs/1519938523.png
+    [7] => /uploads/thumbs/1519942938.png
+    [8] => /uploads/thumbs/1519943026.png
+    [9] => /uploads/thumbs/1519943054.png
+    [10] => /uploads/thumbs/1519943160.png
+    [11] => /uploads/thumbs/1519943297.png
+    [12] => /uploads/thumbs/1519944247.png
+    [13] => /uploads/thumbs/1519944292.png
+    [14] => /uploads/thumbs/1519944381.png
+    [15] => /uploads/thumbs/1519944405.png
+    [16] => /uploads/thumbs/1519944450.png
+    [17] => /uploads/thumbs/1519944502.png
+    [18] => /uploads/thumbs/1519945749.png
+    [19] => /uploads/thumbs/1519945766.png
+    [20] => /uploads/thumbs/1519946452.png
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => /uploads/thumbs/1519937027.png
+    [1] => /uploads/thumbs/1519937027.png
+    [2] => /uploads/thumbs/1519937234.png
+    [3] => /uploads/thumbs/1519938217.png
+    [4] => /uploads/thumbs/1519938234.png
+    [5] => /uploads/thumbs/1519938376.png
+    [6] => /uploads/thumbs/1519938523.png
+    [7] => /uploads/thumbs/1519942938.png
+    [8] => /uploads/thumbs/1519943026.png
+    [9] => /uploads/thumbs/1519943054.png
+    [10] => /uploads/thumbs/1519943160.png
+    [11] => /uploads/thumbs/1519943297.png
+    [12] => /uploads/thumbs/1519944247.png
+    [13] => /uploads/thumbs/1519944292.png
+    [14] => /uploads/thumbs/1519944381.png
+    [15] => /uploads/thumbs/1519944405.png
+    [16] => /uploads/thumbs/1519944450.png
+    [17] => /uploads/thumbs/1519944502.png
+    [18] => /uploads/thumbs/1519945749.png
+    [19] => /uploads/thumbs/1519945766.png
+    [20] => /uploads/thumbs/1519946452.png
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => /uploads/thumbs/1519937027.png
+    [1] => /uploads/thumbs/1519937027.png
+    [2] => /uploads/thumbs/1519937234.png
+    [3] => /uploads/thumbs/1519938217.png
+    [4] => /uploads/thumbs/1519938234.png
+    [5] => /uploads/thumbs/1519938376.png
+    [6] => /uploads/thumbs/1519938523.png
+    [7] => /uploads/thumbs/1519942938.png
+    [8] => /uploads/thumbs/1519943026.png
+    [9] => /uploads/thumbs/1519943054.png
+    [10] => /uploads/thumbs/1519943160.png
+    [11] => /uploads/thumbs/1519943297.png
+    [12] => /uploads/thumbs/1519944247.png
+    [13] => /uploads/thumbs/1519944292.png
+    [14] => /uploads/thumbs/1519944381.png
+    [15] => /uploads/thumbs/1519944405.png
+    [16] => /uploads/thumbs/1519944450.png
+    [17] => /uploads/thumbs/1519944502.png
+    [18] => /uploads/thumbs/1519945749.png
+    [19] => /uploads/thumbs/1519945766.png
+    [20] => /uploads/thumbs/1519946452.png
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => /uploads/thumbs/1519937027.png
+    [1] => /uploads/thumbs/1519937027.png
+    [2] => /uploads/thumbs/1519937234.png
+    [3] => /uploads/thumbs/1519938217.png
+    [4] => /uploads/thumbs/1519938234.png
+    [5] => /uploads/thumbs/1519938376.png
+    [6] => /uploads/thumbs/1519938523.png
+    [7] => /uploads/thumbs/1519942938.png
+    [8] => /uploads/thumbs/1519943026.png
+    [9] => /uploads/thumbs/1519943054.png
+    [10] => /uploads/thumbs/1519943160.png
+    [11] => /uploads/thumbs/1519943297.png
+    [12] => /uploads/thumbs/1519944247.png
+    [13] => /uploads/thumbs/1519944292.png
+    [14] => /uploads/thumbs/1519944381.png
+    [15] => /uploads/thumbs/1519944405.png
+    [16] => /uploads/thumbs/1519944450.png
+    [17] => /uploads/thumbs/1519944502.png
+    [18] => /uploads/thumbs/1519945749.png
+    [19] => /uploads/thumbs/1519945766.png
+    [20] => /uploads/thumbs/1519946452.png
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => uploads/thumbs/1519937027.png
+    [1] => uploads/thumbs/1519937027.png
+    [2] => uploads/thumbs/1519937234.png
+    [3] => uploads/thumbs/1519938217.png
+    [4] => uploads/thumbs/1519938234.png
+    [5] => uploads/thumbs/1519938376.png
+    [6] => uploads/thumbs/1519938523.png
+    [7] => uploads/thumbs/1519942938.png
+    [8] => uploads/thumbs/1519943026.png
+    [9] => uploads/thumbs/1519943054.png
+    [10] => uploads/thumbs/1519943160.png
+    [11] => uploads/thumbs/1519943297.png
+    [12] => uploads/thumbs/1519944247.png
+    [13] => uploads/thumbs/1519944292.png
+    [14] => uploads/thumbs/1519944381.png
+    [15] => uploads/thumbs/1519944405.png
+    [16] => uploads/thumbs/1519944450.png
+    [17] => uploads/thumbs/1519944502.png
+    [18] => uploads/thumbs/1519945749.png
+    [19] => uploads/thumbs/1519945766.png
+    [20] => uploads/thumbs/1519946452.png
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => uploads/thumbs/1519937027.png
+    [1] => uploads/thumbs/1519937027.png
+    [2] => uploads/thumbs/1519937234.png
+    [3] => uploads/thumbs/1519938217.png
+    [4] => uploads/thumbs/1519938234.png
+    [5] => uploads/thumbs/1519938376.png
+    [6] => uploads/thumbs/1519938523.png
+    [7] => uploads/thumbs/1519942938.png
+    [8] => uploads/thumbs/1519943026.png
+    [9] => uploads/thumbs/1519943054.png
+    [10] => uploads/thumbs/1519943160.png
+    [11] => uploads/thumbs/1519943297.png
+    [12] => uploads/thumbs/1519944247.png
+    [13] => uploads/thumbs/1519944292.png
+    [14] => uploads/thumbs/1519944381.png
+    [15] => uploads/thumbs/1519944405.png
+    [16] => uploads/thumbs/1519944450.png
+    [17] => uploads/thumbs/1519944502.png
+    [18] => uploads/thumbs/1519945749.png
+    [19] => uploads/thumbs/1519945766.png
+    [20] => uploads/thumbs/1519946452.png
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => uploads/thumbs/1519937027.png
+    [1] => uploads/thumbs/1519937027.png
+    [2] => uploads/thumbs/1519937234.png
+    [3] => uploads/thumbs/1519938217.png
+    [4] => uploads/thumbs/1519938234.png
+    [5] => uploads/thumbs/1519938376.png
+    [6] => uploads/thumbs/1519938523.png
+    [7] => uploads/thumbs/1519942938.png
+    [8] => uploads/thumbs/1519943026.png
+    [9] => uploads/thumbs/1519943054.png
+    [10] => uploads/thumbs/1519943160.png
+    [11] => uploads/thumbs/1519943297.png
+    [12] => uploads/thumbs/1519944247.png
+    [13] => uploads/thumbs/1519944292.png
+    [14] => uploads/thumbs/1519944381.png
+    [15] => uploads/thumbs/1519944405.png
+    [16] => uploads/thumbs/1519944450.png
+    [17] => uploads/thumbs/1519944502.png
+    [18] => uploads/thumbs/1519945749.png
+    [19] => uploads/thumbs/1519945766.png
+    [20] => uploads/thumbs/1519946452.png
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=register
+        )
+
+    [1] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=login
+        )
+
+    [2] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdir
+        )
+
+    [3] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdb
+        )
+
+    [4] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=fileUpload
+        )
+
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=register
+        )
+
+    [1] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=login
+        )
+
+    [2] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdir
+        )
+
+    [3] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdb
+        )
+
+    [4] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=fileUpload
+        )
+
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => uploads/thumbs/1519771963.png
+    [1] => uploads/thumbs/1519773556.jpg
+    [2] => uploads/thumbs/1519775949.jpg
+    [3] => uploads/thumbs/1519936939.png
+    [4] => uploads/thumbs/1519937027.png
+    [5] => uploads/thumbs/1519937234.png
+    [6] => uploads/thumbs/1519938217.png
+    [7] => uploads/thumbs/1519938234.png
+    [8] => uploads/thumbs/1519938376.png
+    [9] => uploads/thumbs/1519938523.png
+    [10] => uploads/thumbs/1519942938.png
+    [11] => uploads/thumbs/1519943026.png
+    [12] => uploads/thumbs/1519943054.png
+    [13] => uploads/thumbs/1519943160.png
+    [14] => uploads/thumbs/1519943297.png
+    [15] => uploads/thumbs/1519944247.png
+    [16] => uploads/thumbs/1519944292.png
+    [17] => uploads/thumbs/1519944381.png
+    [18] => uploads/thumbs/1519944405.png
+    [19] => uploads/thumbs/1519944450.png
+    [20] => uploads/thumbs/1519944502.png
+    [21] => uploads/thumbs/1519945749.png
+    [22] => uploads/thumbs/1519945766.png
+    [23] => uploads/thumbs/1519946452.png
+    [success] => 1
+)
+
+
+Array
+(
+    [file] => Array
+        (
+            [name] => IMG-20170206-WA0021.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpk2jUFg
+            [error] => 0
+            [size] => 438958
+        )
+
+)
+
+
+IN THE CLASS...
+
+
+Array
+(
+    [name] => IMG-20170206-WA0021.jpg
+    [type] => image/jpeg
+    [tmp_name] => /tmp/phpk2jUFg
+    [error] => 0
+    [size] => 438958
+)
+
+
+SUCCESS
+
+Array
+(
+    [success] => 1
+    [error] => 
+)
+
+
+Array
+(
+    [file] => Array
+        (
+            [name] => IMG-20170206-WA0022.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpHLcG3h
+            [error] => 0
+            [size] => 410890
+        )
+
+)
+
+
+IN THE CLASS...
+
+
+Array
+(
+    [name] => IMG-20170206-WA0022.jpg
+    [type] => image/jpeg
+    [tmp_name] => /tmp/phpHLcG3h
+    [error] => 0
+    [size] => 410890
+)
+
+
+SUCCESS
+
+Array
+(
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php/asdasdad?route=register
+        )
+
+    [1] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php/asdasdad?route=login
+        )
+
+    [2] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php/asdasdad?route=thumbsdir
+        )
+
+    [3] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php/asdasdad?route=thumbsdb
+        )
+
+    [4] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php/asdasdad?route=fileUpload
+        )
+
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=register
+        )
+
+    [1] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=login
+        )
+
+    [2] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdir
+        )
+
+    [3] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdb
+        )
+
+    [4] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=fileUpload
+        )
+
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=register
+        )
+
+    [1] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=login
+        )
+
+    [2] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdir
+        )
+
+    [3] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdb
+        )
+
+    [4] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=fileUpload
+        )
+
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=register
+        )
+
+    [1] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=login
+        )
+
+    [2] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdir
+        )
+
+    [3] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdb
+        )
+
+    [4] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=fileUpload
+        )
+
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=register
+        )
+
+    [1] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=login
+        )
+
+    [2] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdir
+        )
+
+    [3] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdb
+        )
+
+    [4] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=fileUpload
+        )
+
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=register
+        )
+
+    [1] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=login
+        )
+
+    [2] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdir
+        )
+
+    [3] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdb
+        )
+
+    [4] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=fileUpload
+        )
+
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=register
+        )
+
+    [1] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=login
+        )
+
+    [2] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdir
+        )
+
+    [3] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdb
+        )
+
+    [4] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=fileUpload
+        )
+
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=register
+        )
+
+    [1] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=login
+        )
+
+    [2] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdir
+        )
+
+    [3] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdb
+        )
+
+    [4] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=fileUpload
+        )
+
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=register
+        )
+
+    [1] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=login
+        )
+
+    [2] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdir
+        )
+
+    [3] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdb
+        )
+
+    [4] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=fileUpload
+        )
+
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=register
+        )
+
+    [1] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=login
+        )
+
+    [2] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdir
+        )
+
+    [3] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdb
+        )
+
+    [4] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=fileUpload
+        )
+
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=register
+        )
+
+    [1] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=login
+        )
+
+    [2] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdir
+        )
+
+    [3] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdb
+        )
+
+    [4] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=fileUpload
+        )
+
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=register
+        )
+
+    [1] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=login
+        )
+
+    [2] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdir
+        )
+
+    [3] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdb
+        )
+
+    [4] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=fileUpload
+        )
+
+    [success] => 1
+)
+
+
+Array
+(
+)
+
+
+IN THE CLASS...
+
+
+Array
+(
+    [success] => 1
+)
+
+
+Array
+(
+)
+
+
+IN THE CLASS...
+
+
+Array
+(
+    [success] => 1
+)
+
+
+Array
+(
+)
+
+
+IN THE CLASS...
+
+
+Array
+(
+    [success] => 1
+)
+
+
+Array
+(
+)
+
+
+IN THE CLASS...
+
+
+Array
+(
+    [success] => 1
+)
+
+
+Array
+(
+)
+
+
+IN THE CLASS...
+
+
+Array
+(
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=register
+        )
+
+    [1] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=login
+        )
+
+    [2] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdir
+        )
+
+    [3] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdb
+        )
+
+    [4] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=fileUpload
+        )
+
+    [success] => 1
+)
+
+
+Array
+(
+)
+
+
+IN THE CLASS...
+
+
+Array
+(
+    [success] => 1
+)
+
+
+Array
+(
+)
+
+
+IN THE CLASS...
+
+
+Array
+(
+    [success] => 1
+)
+
+
+Array
+(
+)
+
+
+IN THE CLASS...
+
+
+Array
+(
+    [success] => 1
+)
+
+
+Array
+(
+)
+
+
+IN THE CLASS...
+
+
+Array
+(
+    [success] => 1
+)
+
+
+Array
+(
+)
+
+
+IN THE CLASS...
+
+
+Array
+(
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=register
+        )
+
+    [1] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=login
+        )
+
+    [2] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdir
+        )
+
+    [3] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdb
+        )
+
+    [4] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=fileUpload
+        )
+
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => uploads/thumbs/1521926434.jpg
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=register
+        )
+
+    [1] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=login
+        )
+
+    [2] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdir
+        )
+
+    [3] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdb
+        )
+
+    [4] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=fileUpload
+        )
+
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => uploads/thumbs/1521926434.jpg
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => uploads/thumbs/1519771963.png
+    [1] => uploads/thumbs/1519773556.jpg
+    [2] => uploads/thumbs/1519775949.jpg
+    [3] => uploads/thumbs/1519936939.png
+    [4] => uploads/thumbs/1519937027.png
+    [5] => uploads/thumbs/1519937234.png
+    [6] => uploads/thumbs/1519938217.png
+    [7] => uploads/thumbs/1519938234.png
+    [8] => uploads/thumbs/1519938376.png
+    [9] => uploads/thumbs/1519938523.png
+    [10] => uploads/thumbs/1519942938.png
+    [11] => uploads/thumbs/1519943026.png
+    [12] => uploads/thumbs/1519943054.png
+    [13] => uploads/thumbs/1519943160.png
+    [14] => uploads/thumbs/1519943297.png
+    [15] => uploads/thumbs/1519944247.png
+    [16] => uploads/thumbs/1519944292.png
+    [17] => uploads/thumbs/1519944381.png
+    [18] => uploads/thumbs/1519944405.png
+    [19] => uploads/thumbs/1519944450.png
+    [20] => uploads/thumbs/1519944502.png
+    [21] => uploads/thumbs/1519945749.png
+    [22] => uploads/thumbs/1519945766.png
+    [23] => uploads/thumbs/1519946452.png
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=register
+        )
+
+    [1] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=login
+        )
+
+    [2] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdir
+        )
+
+    [3] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdb
+        )
+
+    [4] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=fileUpload
+        )
+
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => uploads/thumbs/1519771963.png
+    [1] => uploads/thumbs/1519773556.jpg
+    [2] => uploads/thumbs/1519775949.jpg
+    [3] => uploads/thumbs/1519936939.png
+    [4] => uploads/thumbs/1519937027.png
+    [5] => uploads/thumbs/1519937234.png
+    [6] => uploads/thumbs/1519938217.png
+    [7] => uploads/thumbs/1519938234.png
+    [8] => uploads/thumbs/1519938376.png
+    [9] => uploads/thumbs/1519938523.png
+    [10] => uploads/thumbs/1519942938.png
+    [11] => uploads/thumbs/1519943026.png
+    [12] => uploads/thumbs/1519943054.png
+    [13] => uploads/thumbs/1519943160.png
+    [14] => uploads/thumbs/1519943297.png
+    [15] => uploads/thumbs/1519944247.png
+    [16] => uploads/thumbs/1519944292.png
+    [17] => uploads/thumbs/1519944381.png
+    [18] => uploads/thumbs/1519944405.png
+    [19] => uploads/thumbs/1519944450.png
+    [20] => uploads/thumbs/1519944502.png
+    [21] => uploads/thumbs/1519945749.png
+    [22] => uploads/thumbs/1519945766.png
+    [23] => uploads/thumbs/1519946452.png
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=register
+        )
+
+    [1] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=login
+        )
+
+    [2] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdir
+        )
+
+    [3] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdb
+        )
+
+    [4] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=fileUpload
+        )
+
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=register
+        )
+
+    [1] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=login
+        )
+
+    [2] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdir
+        )
+
+    [3] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdb
+        )
+
+    [4] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=fileUpload
+        )
+
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => uploads/thumbs/1519771963.png
+    [1] => uploads/thumbs/1519773556.jpg
+    [2] => uploads/thumbs/1519775949.jpg
+    [3] => uploads/thumbs/1519936939.png
+    [4] => uploads/thumbs/1519937027.png
+    [5] => uploads/thumbs/1519937234.png
+    [6] => uploads/thumbs/1519938217.png
+    [7] => uploads/thumbs/1519938234.png
+    [8] => uploads/thumbs/1519938376.png
+    [9] => uploads/thumbs/1519938523.png
+    [10] => uploads/thumbs/1519942938.png
+    [11] => uploads/thumbs/1519943026.png
+    [12] => uploads/thumbs/1519943054.png
+    [13] => uploads/thumbs/1519943160.png
+    [14] => uploads/thumbs/1519943297.png
+    [15] => uploads/thumbs/1519944247.png
+    [16] => uploads/thumbs/1519944292.png
+    [17] => uploads/thumbs/1519944381.png
+    [18] => uploads/thumbs/1519944405.png
+    [19] => uploads/thumbs/1519944450.png
+    [20] => uploads/thumbs/1519944502.png
+    [21] => uploads/thumbs/1519945749.png
+    [22] => uploads/thumbs/1519945766.png
+    [23] => uploads/thumbs/1519946452.png
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=register
+        )
+
+    [1] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=login
+        )
+
+    [2] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdir
+        )
+
+    [3] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdb
+        )
+
+    [4] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=fileUpload
+        )
+
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => uploads/thumbs/1519771963.png
+    [1] => uploads/thumbs/1519773556.jpg
+    [2] => uploads/thumbs/1519775949.jpg
+    [3] => uploads/thumbs/1519936939.png
+    [4] => uploads/thumbs/1519937027.png
+    [5] => uploads/thumbs/1519937234.png
+    [6] => uploads/thumbs/1519938217.png
+    [7] => uploads/thumbs/1519938234.png
+    [8] => uploads/thumbs/1519938376.png
+    [9] => uploads/thumbs/1519938523.png
+    [10] => uploads/thumbs/1519942938.png
+    [11] => uploads/thumbs/1519943026.png
+    [12] => uploads/thumbs/1519943054.png
+    [13] => uploads/thumbs/1519943160.png
+    [14] => uploads/thumbs/1519943297.png
+    [15] => uploads/thumbs/1519944247.png
+    [16] => uploads/thumbs/1519944292.png
+    [17] => uploads/thumbs/1519944381.png
+    [18] => uploads/thumbs/1519944405.png
+    [19] => uploads/thumbs/1519944450.png
+    [20] => uploads/thumbs/1519944502.png
+    [21] => uploads/thumbs/1519945749.png
+    [22] => uploads/thumbs/1519945766.png
+    [23] => uploads/thumbs/1519946452.png
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=register
+        )
+
+    [1] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=login
+        )
+
+    [2] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdir
+        )
+
+    [3] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdb
+        )
+
+    [4] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=fileUpload
+        )
+
+    [success] => 1
+)
+
+
+Array
+(
+    [file] => Array
+        (
+            [name] => Sai-Baba-Face-HD-Wallpaper.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpElDLlq
+            [error] => 0
+            [size] => 45717
+        )
+
+)
+
+
+IN THE CLASS...
+
+
+Array
+(
+    [name] => Sai-Baba-Face-HD-Wallpaper.jpg
+    [type] => image/jpeg
+    [tmp_name] => /tmp/phpElDLlq
+    [error] => 0
+    [size] => 45717
+)
+
+
+SUCCESS
+
+Array
+(
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => uploads/thumbs/1522102196.jpg
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=register
+        )
+
+    [1] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=login
+        )
+
+    [2] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdir
+        )
+
+    [3] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdb
+        )
+
+    [4] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=fileUpload
+        )
+
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => uploads/thumbs/1522102196.jpg
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => uploads/thumbs/1522102196.jpg
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => uploads/thumbs/1522102196.jpg
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=register
+        )
+
+    [1] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=login
+        )
+
+    [2] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdir
+        )
+
+    [3] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdb
+        )
+
+    [4] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=fileUpload
+        )
+
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => uploads/thumbs/1522102196.jpg
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => uploads/thumbs/1522102196.jpg
+    [success] => 1
+)
+
+
+Array
+(
+    [file] => Array
+        (
+            [name] => puppy-1.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phplyEdjM
+            [error] => 0
+            [size] => 54808
+        )
+
+)
+
+
+IN THE CLASS...
+
+
+Array
+(
+    [name] => puppy-1.jpg
+    [type] => image/jpeg
+    [tmp_name] => /tmp/phplyEdjM
+    [error] => 0
+    [size] => 54808
+)
+
+
+SUCCESS
+
+Array
+(
+    [success] => 1
+)
+
+
+Array
+(
+    [file] => Array
+        (
+            [name] => puppy-2.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/php96Dlvb
+            [error] => 0
+            [size] => 5344
+        )
+
+)
+
+
+IN THE CLASS...
+
+
+Array
+(
+    [name] => puppy-2.jpg
+    [type] => image/jpeg
+    [tmp_name] => /tmp/php96Dlvb
+    [error] => 0
+    [size] => 5344
+)
+
+
+SUCCESS
+
+Array
+(
+    [success] => 1
+)
+
+
+Array
+(
+    [file] => Array
+        (
+            [name] => puppy-3.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/php40LUDK
+            [error] => 0
+            [size] => 6393
+        )
+
+)
+
+
+IN THE CLASS...
+
+
+Array
+(
+    [name] => puppy-3.jpg
+    [type] => image/jpeg
+    [tmp_name] => /tmp/php40LUDK
+    [error] => 0
+    [size] => 6393
+)
+
+
+SUCCESS
+
+Array
+(
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => uploads/thumbs/1522102196.jpg
+    [1] => uploads/thumbs/1522102851.jpg
+    [2] => uploads/thumbs/1522102855.jpg
+    [3] => uploads/thumbs/1522102859.jpg
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => uploads/thumbs/1522102196.jpg
+    [1] => uploads/thumbs/1522102851.jpg
+    [2] => uploads/thumbs/1522102855.jpg
+    [3] => uploads/thumbs/1522102859.jpg
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => uploads/thumbs/1522102196.jpg
+    [1] => uploads/thumbs/1522102851.jpg
+    [2] => uploads/thumbs/1522102855.jpg
+    [3] => uploads/thumbs/1522102859.jpg
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => uploads/thumbs/1522102196.jpg
+    [1] => uploads/thumbs/1522102851.jpg
+    [2] => uploads/thumbs/1522102855.jpg
+    [3] => uploads/thumbs/1522102859.jpg
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => uploads/thumbs/1522102196.jpg
+    [1] => uploads/thumbs/1522102851.jpg
+    [2] => uploads/thumbs/1522102855.jpg
+    [3] => uploads/thumbs/1522102859.jpg
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => uploads/thumbs/1522102196.jpg
+    [1] => uploads/thumbs/1522102851.jpg
+    [2] => uploads/thumbs/1522102855.jpg
+    [3] => uploads/thumbs/1522102859.jpg
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => uploads/thumbs/1522102196.jpg
+    [1] => uploads/thumbs/1522102851.jpg
+    [2] => uploads/thumbs/1522102855.jpg
+    [3] => uploads/thumbs/1522102859.jpg
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => uploads/thumbs/1522102196.jpg
+    [1] => uploads/thumbs/1522102851.jpg
+    [2] => uploads/thumbs/1522102855.jpg
+    [3] => uploads/thumbs/1522102859.jpg
+    [success] => 1
+)
+
+
+Array
+(
+    [file] => Array
+        (
+            [name] => Sai-Baba-Face-HD-Wallpaper.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpcAXzxX
+            [error] => 0
+            [size] => 45717
+        )
+
+)
+
+
+IN THE CLASS...
+
+
+Array
+(
+    [name] => Sai-Baba-Face-HD-Wallpaper.jpg
+    [type] => image/jpeg
+    [tmp_name] => /tmp/phpcAXzxX
+    [error] => 0
+    [size] => 45717
+)
+
+
+SUCCESS
+
+Array
+(
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => uploads/thumbs/1522102196.jpg
+    [1] => uploads/thumbs/1522102851.jpg
+    [2] => uploads/thumbs/1522102855.jpg
+    [3] => uploads/thumbs/1522102859.jpg
+    [4] => uploads/thumbs/1522103372.jpg
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => uploads/thumbs/1522102196.jpg
+    [1] => uploads/thumbs/1522102851.jpg
+    [2] => uploads/thumbs/1522102855.jpg
+    [3] => uploads/thumbs/1522102859.jpg
+    [success] => 1
+)
+
+
+Array
+(
+    [file] => Array
+        (
+            [name] => 1519771963.png
+            [type] => image/png
+            [tmp_name] => /tmp/phpVqPept
+            [error] => 0
+            [size] => 57799
+        )
+
+)
+
+
+IN THE CLASS...
+
+
+Array
+(
+    [name] => 1519771963.png
+    [type] => image/png
+    [tmp_name] => /tmp/phpVqPept
+    [error] => 0
+    [size] => 57799
+)
+
+
+SUCCESS
+
+Array
+(
+    [success] => 1
+)
+
+
+Array
+(
+    [file] => Array
+        (
+            [name] => 1519937234.png
+            [type] => image/png
+            [tmp_name] => /tmp/phpFUvtkx
+            [error] => 0
+            [size] => 395950
+        )
+
+)
+
+
+IN THE CLASS...
+
+
+Array
+(
+    [name] => 1519937234.png
+    [type] => image/png
+    [tmp_name] => /tmp/phpFUvtkx
+    [error] => 0
+    [size] => 395950
+)
+
+
+SUCCESS
+
+Array
+(
+    [success] => 1
+)
+
+
+Array
+(
+    [file] => Array
+        (
+            [name] => 1519937027.png
+            [type] => image/png
+            [tmp_name] => /tmp/phpIAsAVI
+            [error] => 0
+            [size] => 380159
+        )
+
+)
+
+
+IN THE CLASS...
+
+
+Array
+(
+    [name] => 1519937027.png
+    [type] => image/png
+    [tmp_name] => /tmp/phpIAsAVI
+    [error] => 0
+    [size] => 380159
+)
+
+
+SUCCESS
+
+Array
+(
+    [success] => 1
+)
+
+
+Array
+(
+    [file] => Array
+        (
+            [name] => 1519775949.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/phpyu0uN3
+            [error] => 0
+            [size] => 620888
+        )
+
+)
+
+
+IN THE CLASS...
+
+
+Array
+(
+    [name] => 1519775949.jpg
+    [type] => image/jpeg
+    [tmp_name] => /tmp/phpyu0uN3
+    [error] => 0
+    [size] => 620888
+)
+
+
+SUCCESS
+
+Array
+(
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => uploads/thumbs/1522103463.png
+    [1] => uploads/thumbs/1522103466.png
+    [2] => uploads/thumbs/1522103470.png
+    [3] => uploads/thumbs/1522103474.jpg
+    [success] => 1
+)
+
+
+Array
+(
+    [file] => Array
+        (
+            [name] => 1519944381.png
+            [type] => image/png
+            [tmp_name] => /tmp/phpTvYL0L
+            [error] => 0
+            [size] => 126231
+        )
+
+)
+
+
+IN THE CLASS...
+
+
+Array
+(
+    [name] => 1519944381.png
+    [type] => image/png
+    [tmp_name] => /tmp/phpTvYL0L
+    [error] => 0
+    [size] => 126231
+)
+
+
+SUCCESS
+
+Array
+(
+    [success] => 1
+)
+
+
+Array
+(
+    [file] => Array
+        (
+            [name] => 1519938376.png
+            [type] => image/png
+            [tmp_name] => /tmp/phpPrqU4F
+            [error] => 0
+            [size] => 362336
+        )
+
+)
+
+
+IN THE CLASS...
+
+
+Array
+(
+    [name] => 1519938376.png
+    [type] => image/png
+    [tmp_name] => /tmp/phpPrqU4F
+    [error] => 0
+    [size] => 362336
+)
+
+
+SUCCESS
+
+Array
+(
+    [success] => 1
+)
+
+
+Array
+(
+    [file] => Array
+        (
+            [name] => 1519938234.png
+            [type] => image/png
+            [tmp_name] => /tmp/phpwQRCtF
+            [error] => 0
+            [size] => 57799
+        )
+
+)
+
+
+IN THE CLASS...
+
+
+Array
+(
+    [name] => 1519938234.png
+    [type] => image/png
+    [tmp_name] => /tmp/phpwQRCtF
+    [error] => 0
+    [size] => 57799
+)
+
+
+SUCCESS
+
+Array
+(
+    [success] => 1
+)
+
+
+Array
+(
+    [file] => Array
+        (
+            [name] => 1519938217.png
+            [type] => image/png
+            [tmp_name] => /tmp/php5sssiL
+            [error] => 0
+            [size] => 57799
+        )
+
+)
+
+
+IN THE CLASS...
+
+
+Array
+(
+    [name] => 1519938217.png
+    [type] => image/png
+    [tmp_name] => /tmp/php5sssiL
+    [error] => 0
+    [size] => 57799
+)
+
+
+SUCCESS
+
+Array
+(
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => uploads/thumbs/1522103463.png
+    [1] => uploads/thumbs/1522103466.png
+    [2] => uploads/thumbs/1522103470.png
+    [3] => uploads/thumbs/1522103474.jpg
+    [4] => uploads/thumbs/1522103485.png
+    [5] => uploads/thumbs/1522103487.png
+    [6] => uploads/thumbs/1522103490.png
+    [7] => uploads/thumbs/1522103492.png
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => uploads/thumbs/1522103463.png
+    [1] => uploads/thumbs/1522103466.png
+    [2] => uploads/thumbs/1522103470.png
+    [3] => uploads/thumbs/1522103474.jpg
+    [4] => uploads/thumbs/1522103485.png
+    [5] => uploads/thumbs/1522103487.png
+    [6] => uploads/thumbs/1522103490.png
+    [7] => uploads/thumbs/1522103492.png
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => uploads/thumbs/1522103463.png
+    [1] => uploads/thumbs/1522103466.png
+    [2] => uploads/thumbs/1522103470.png
+    [3] => uploads/thumbs/1522103474.jpg
+    [4] => uploads/thumbs/1522103485.png
+    [5] => uploads/thumbs/1522103487.png
+    [6] => uploads/thumbs/1522103490.png
+    [7] => uploads/thumbs/1522103492.png
+    [success] => 1
+)
+
+
+Array
+(
+    [0] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=register
+        )
+
+    [1] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=login
+        )
+
+    [2] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdir
+        )
+
+    [3] => Array
+        (
+            [type] => get
+            [url] => https://wtfhw.us/meme_gen/app.php?route=thumbsdb
+        )
+
+    [4] => Array
+        (
+            [type] => post
+            [url] => https://wtfhw.us/meme_gen/app.php?route=fileUpload
+        )
+
+    [success] => 1
+)
+
+
