@@ -14,14 +14,14 @@ def strict(func):
     """
     argvals = dict(zip(sig.parameters.keys(), args))
     for key,value in sig.parameters.items():
-      print(key,":",value.annotation,":",argvals[key])
+      #print(key,":",value.annotation,":",argvals[key])
       if isinstance(argvals[key],value.annotation):
         print("yes")
       else:
         x = "Args passed to function {func_name} must be of type {expected} but {actual} given".format(func_name=func.__name__,expected=type(argvals[key]),actual=value.annotation)
         raise Exception(x)
     result = func(*args,**kwargs)
-    if not type(sig.return_annotation) == type(result):
+    if not sig.return_annotation == type(result):
       z = "Value returned by function {func_name} must be of type {expected} but {actual} returned".format(func_name=func.__name__,expected=sig.return_annotation,actual=type(result))
       raise Exception(z)
     return result
@@ -30,7 +30,7 @@ def strict(func):
       
     
 @strict
-def p(a:int,b:int) -> str:
-  pass
+def p(a:int,b:int) -> int:
+  return "23"
 
 p(23,45)
